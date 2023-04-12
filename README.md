@@ -12,9 +12,6 @@
 
 🤝 If you're looking for a passionate and motivated Java developer to join your team, please don't hesitate to get in touch. I would love the opportunity to talk with you about how I can contribute to your organization and help drive your software development efforts forward.
 
-<br>
-
-<h3>:fire: My Stats :</h3
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelJava123&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Angel's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelJava123&theme=github_dark&layout=compact&hide_border=true" /></a> 
 
