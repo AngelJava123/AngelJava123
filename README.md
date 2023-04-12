@@ -10,7 +10,6 @@
 
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelJava123" alt="Top Languages">
   <h3>Languages and Tools:</h3>
   <p> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
@@ -22,9 +21,6 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
     <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a> 
   </p>
-</div>
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AngelJava123&show_icons=true&theme=transparent" alt="GitHub Stats">
 </div>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinfengcs88&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfengcs88&theme=github_dark&layout=compact&hide_border=true" /></a> |
