@@ -24,5 +24,5 @@
   </p>
 </div>
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AngelJava123&show_icons=true&theme=transparent" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelJava123&show_icons=true&theme=transparent" alt="GitHub Stats">
 </div>
