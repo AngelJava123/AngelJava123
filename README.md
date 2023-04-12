@@ -9,3 +9,4 @@
 🤝 If you're looking for a passionate and motivated Java developer to join your team, please don't hesitate to get in touch. I would love the opportunity to talk with you about how I can contribute to your organization and help drive your software development efforts forward.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelJava123&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelJava123&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
