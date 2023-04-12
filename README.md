@@ -7,3 +7,5 @@
 🚀 I am eager to join a software development team where I can learn from experienced developers and contribute to projects that make a real impact. I am a quick learner and a dedicated problem-solver, and I'm always looking for new ways to improve my skills and stay up-to-date with the latest industry trends.
 
 🤝 If you're looking for a passionate and motivated Java developer to join your team, please don't hesitate to get in touch. I would love the opportunity to talk with you about how I can contribute to your organization and help drive your software development efforts forward.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelJava123&show_icons=true&theme=radical)
