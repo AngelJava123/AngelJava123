@@ -10,7 +10,7 @@
 
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AngelJava123&show_icons=true&theme=transparent" alt="GitHub Stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelJava123" alt="Top Languages">
   <h3>Languages and Tools:</h3>
   <p> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
@@ -24,5 +24,5 @@
   </p>
 </div>
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelJava123" alt="Top Languages">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AngelJava123&show_icons=true&theme=transparent" alt="GitHub Stats">
 </div>
