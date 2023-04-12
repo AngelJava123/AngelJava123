@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Angel
 
 
-A Java software enthusiast and a graduate of SoftUni. I have always been passionate about software development and I'm eager to put my skills to work in a professional environment.
+👨‍💻 A Java software enthusiast and a graduate of SoftUni. I have always been passionate about software development and I'm eager to put my skills to work in a professional environment.
 
 💻 During my time at SoftUni, I gained a solid foundation in Java programming, as well as experience with web development, databases, and object-oriented design. I am constantly seeking new challenges and opportunities to expand my skills, and I have completed several personal projects to showcase my abilities.
 
