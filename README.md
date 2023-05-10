@@ -4,9 +4,6 @@
 
 💻 I'm a Java software enthusiast and SoftUni graduate with a strong foundation in Java programming, web development, databases, and object-oriented design. I'm driven by the challenge of building dynamic and responsive web applications that are both functional and beautiful. As a quick learner and dedicated problem-solver, I'm eager to join an experienced software development team and contribute to impactful projects while staying up-to-date with industry trends. Let's talk about how I can help drive your software development efforts forward!
 
-
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelJava123&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Angel's github stats" /></a><a ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelJava123&theme=github_dark&layout=compact&hide_border=true" /></a> 
-
 <div>
   <h3>:hammer_and_wrench: Languages and Tools :</h3
   <p> 
