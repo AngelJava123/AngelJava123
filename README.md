@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Angel
 
 
-💻 I'm a Java software enthusiast and SoftUni graduate with a strong foundation in Java programming, web development, databases, and object-oriented design. I'm driven by the challenge of building dynamic and responsive web applications that are both functional and beautiful. As a quick learner and dedicated problem-solver, I'm eager to join an experienced software development team and contribute to impactful projects while staying up-to-date with industry trends. Let's talk about how I can help drive your software development efforts forward!
+💻 I'm a Java software enthusiast and SoftUni graduate with a strong foundation in Java programming, web development, databases, and object-oriented design. I'm driven by the challenge of building dynamic and responsive web applications that are both functional and beautiful. As a quick learner and dedicated problem-solver, I'm eager to join an experienced software development team and contribute to impactful projects while staying up-to-date with industry trends. Let's talk about how I can help drive your software development efforts forward
 
 <div>
   <h3>:hammer_and_wrench: Languages and Tools :</h3
