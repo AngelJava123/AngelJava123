@@ -4,17 +4,14 @@
 
 💻 I'm a Java software enthusiast and SoftUni graduate with a strong foundation in Java programming, web development, databases, and object-oriented design. I'm driven by the challenge of building dynamic and responsive web applications that are both functional and beautiful. As a quick learner and dedicated problem-solver, I'm eager to join an experienced software development team and contribute to impactful projects while staying up-to-date with industry trends. Let's talk about how I can help drive your software development efforts forward!
 
-<div style="display: flex;">
+<div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1;">
-        <img src="https://github-readme-stats.vercel.app/api?username=AngelJava123&theme=transparent&show_icons=true" alt="Angel's GitHub stats">
+        ![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelJava123&theme=transparent&show_icons=true)
     </div>
     <div style="flex: 1;">
-        <a href="https://github.com/AngelJava123/github-readme-stats">
-            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AngelJava123&theme=transparent" alt="Top Langs">
-        </a>
-    </div>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AngelJava123&theme=transparent)](https://github.com/AngelJava123/github-readme-stats)
+        </div>
 </div>
-
 
 <div>
   <h3>:hammer_and_wrench: Languages and Tools :</h3
