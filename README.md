@@ -6,6 +6,8 @@
 
 ![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelJava123&theme=transparent&show_icons=true)
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AngelJava123)](https://github.com/AngelJava123/github-readme-stats)
+
 <div>
   <h3>:hammer_and_wrench: Languages and Tools :</h3
   <p> 
